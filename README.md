@@ -17,7 +17,7 @@
 
 ### 🚀 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofundando meus conhecimentos em desenvolvimento de software. Meu foco principal hoje é **Java e desenvolvimento Backend** — estudando desde os fundamentos da linguagem até as tecnologias usadas no mercado. Também tenho projetos em **Python**, parte da minha trajetória de aprendizado em programação.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia Mecânica, além de aprofundar meus conhecimentos em desenvolvimento de software. Meu foco principal hoje é Java e desenvolvimento Backend — estudando desde os fundamentos da linguagem até as tecnologias usadas no mercado. Também tenho projetos em Python, parte da minha trajetória de aprendizado em programação.
 
 ---
 
@@ -63,8 +63,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofunda
 
 #### 🐍 Python
 
-- **[Nome do projeto]** — [descrição curta do que o projeto faz]. `#python`
-- **[Nome do projeto]** — [descrição curta do que o projeto faz]. `#python`
+- **[fintech-market-intelligence]** — [Sistema de monitoramento de criptomoedas em tempo real.]. `#python`
+- **[pharma-data-manager]** — [Sistema de gerenciamento de estoque para farmácia.]. `#python`
 
 > 🔗 Veja todos os repositórios fixados no meu perfil.
 
