@@ -27,7 +27,22 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofunda
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+
+**Bancos de dados**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+
+**DevOps & Ferramentas**
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
 
 **Em aprendizado**
 
@@ -35,47 +50,23 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofunda
 ![REST APIs](https://img.shields.io/badge/-APIs%20REST-black?style=flat-square&logo=fastapi)
 ![JDBC](https://img.shields.io/badge/-JDBC-black?style=flat-square&logo=oracle)
 ![Testes](https://img.shields.io/badge/-Testes%20Automatizados-black?style=flat-square&logo=testinglibrary)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-
----
-
-### 📚 Trilha de estudos atual
-
-```
-Java
- ├── POO
- ├── Collections
- ├── Streams
- ├── Optional
- ├── Generics
- └── Exceptions
-       │
-       ▼
-     JDBC
-       │
-       ▼
-  Spring Boot
-       │
-       ▼
-   APIs REST
-```
 
 ---
 
 ### 📌 Projetos
 
-| Categoria | Descrição |
-|---|---|
-| 🐍 **Python** | Projetos desenvolvidos durante minha trajetória de aprendizado em programação. |
-| ☕ **Java** | Projetos para praticar orientação a objetos, Collections, Streams, Exceptions e outros conceitos da linguagem. |
-| 🌱 **Backend** | Projetos em desenvolvimento com Java, Spring Boot, APIs REST e banco de dados. |
+#### ☕ Java / Backend
+
+- **[Nome do projeto]** — API REST desenvolvida com Java e Spring Boot, persistência de dados via JDBC/PostgreSQL. `#java` `#springboot` `#postgresql`
+- **[Nome do projeto]** — Sistema de [ex: gerenciamento de tarefas] aplicando POO, Collections e Streams. `#java` `#poo`
+- **[Nome do projeto]** — API construída com Spring Boot + Docker, integrando [PostgreSQL/MongoDB/Redis]. `#spring` `#docker`
+
+#### 🐍 Python
+
+- **[Nome do projeto]** — [descrição curta do que o projeto faz]. `#python`
+- **[Nome do projeto]** — [descrição curta do que o projeto faz]. `#python`
+
+> 🔗 Veja todos os repositórios fixados no meu perfil.
 
 ---
 
