@@ -57,14 +57,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Enge
 
 #### ☕ Java / Backend
 
-- **[Nome do projeto]** — API REST desenvolvida com Java e Spring Boot, persistência de dados via JDBC/PostgreSQL. `#java` `#springboot` `#postgresql`
-- **[Nome do projeto]** — Sistema de [ex: gerenciamento de tarefas] aplicando POO, Collections e Streams. `#java` `#poo`
-- **[Nome do projeto]** — API construída com Spring Boot + Docker, integrando [PostgreSQL/MongoDB/Redis]. `#spring` `#docker`
+- **[Projetos em andamento]** `#java` `#springboot` `#postgresql`
 
 #### 🐍 Python
 
 - **[fintech-market-intelligence]** — [Sistema de monitoramento de criptomoedas em tempo real.]. `#python`
 - **[pharma-data-manager]** — [Sistema de gerenciamento de estoque para farmácia.]. `#python`
+- **[priceWatch]** — [Robô de web scraping que pesquisa preços de materiais em múltiplos marketplaces.]. `#python`
+- **[contractRadar ]** — [Pipeline de dados (Airflow DAG) que extrai contratos públicos do Portal Ceará Transparente, persiste em banco PostgreSQL, classifica cada contrato por categoria usando um LLM (via Groq) e gera um relatório em HTML com os resultados.]. `#python`
 
 > 🔗 Veja todos os repositórios fixados no meu perfil.
 
