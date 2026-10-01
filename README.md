@@ -55,9 +55,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Enge
 
 ### 📌 Projetos
 
-#### ☕ Java / Backend
+#### ☕ NodeJs / Backend
 
-- **[Projetos em andamento]** `#java` `#springboot` `#postgresql`
+- **[Projetos em andamento]** `#javascript` `#nodejs` `#postgresql`
 
 #### 🐍 Python
 
