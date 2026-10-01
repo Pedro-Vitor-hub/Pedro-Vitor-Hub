@@ -17,7 +17,7 @@
 
 ### 🚀 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia Mecânica, além de aprofundar meus conhecimentos em desenvolvimento de software. Meu foco principal hoje é Java e desenvolvimento Backend — estudando desde os fundamentos da linguagem até as tecnologias usadas no mercado. Também tenho projetos em Python, parte da minha trajetória de aprendizado em programação.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia Mecânica, além de aprofundar meus conhecimentos em desenvolvimento de software. Meu foco principal hoje é Nodejs e desenvolvimento Backend — estudando desde os fundamentos da linguagem até as tecnologias usadas no mercado. Também tenho projetos em Python, parte da minha trajetória de aprendizado em programação.
 
 ---
 
